@@ -1,4 +1,4 @@
-package Baekjoon;
+ㅍpackage Baekjoon;
 
 public class sprout7287 {
     public static void main(String[] args) {
